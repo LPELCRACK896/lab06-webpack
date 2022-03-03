@@ -207,7 +207,7 @@ footer{
 }
 .descripcion_book_item{
     height: 140px;
-    padding: 2px;
+    padding: 10px;
     flex-basis: 65%;
     background-color: #BCB0B0;
     display: flex;
