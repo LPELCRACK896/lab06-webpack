@@ -1,0 +1,26 @@
+{
+  "name": "lab06_webpack",
+  "version": "1.0.0",
+  "description": "primer proyecto con webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LPELCRACK896/lab06-webpack.git"
+  },
+  "author": "Luis Aldana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LPELCRACK896/lab06-webpack/issues"
+  },
+  "homepage": "https://github.com/LPELCRACK896/lab06-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^6.6.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
